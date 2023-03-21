@@ -15,7 +15,7 @@ Redux(библиотека react-redux)
 Функционал:
 Можно добавлять товары в корзину и удалять,
 просматривать итоговую сумму заказа,
-авторизоваться и перейти в личный кабинет при вводе верных данных(email: developer123; password: 12345678)
+авторизоваться и перейти в личный кабинет при вводе верных данных(email: ; password:)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
