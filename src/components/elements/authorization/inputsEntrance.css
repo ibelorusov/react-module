@@ -1,0 +1,110 @@
+.inputs {
+   font-family: inherit;
+   width: 420px;
+   height: 212px;
+   display: flex;
+   flex-direction: column;
+   margin: 36px 0 0 0;
+   position: relative;
+}
+
+.inputRegistration-login,
+.inputRegistration-password,
+.inputEntrance-login,
+.inputEntrance-password {
+   display: inline-block;
+   position: absolute;
+   width: 100%;
+   border: 1px solid #D58C51;
+   border-radius: 61px;
+   padding: 9px 300px 10px 18px;
+   box-sizing: border-box;
+}
+
+.inputRegistration-password,
+.inputEntrance-password {
+   top: 52px;
+   left: 0;
+}
+
+.inputError-login,
+.inputError-password{
+   position: absolute;
+   display: inline-block;
+   margin-left: 20px;
+   font-weight: 300;
+   font-size: 8px;
+   line-height: 10px;
+   color: #FF0B0B;
+}
+
+.inputError-login {
+   top: 37px;
+}
+
+.inputError-password {
+   top: 90px;
+}
+
+.inputRegistration-login::-webkit-input-placeholder,
+.inputRegistration-password::-webkit-input-placeholder,
+.inputEntrance-login::-webkit-input-placeholder,
+.inputEntrance-password::-webkit-input-placeholder{
+   font-family: inherit;
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 20px;
+}
+
+.inputRegistration-login::-moz-placeholder,
+.inputRegistration-password::-moz-placeholder,
+.inputEntrance-login::-moz-placeholder,
+.inputEntrance-password::-moz-placeholder {
+   font-family: inherit;
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 20px;
+}
+
+.ChBoxError {
+   position: absolute;
+   width: 100%;
+   display: inline;
+   font-weight: 300;
+   font-size: 8px;
+   line-height: 10px;
+   color: #FF0B0B;
+   text-align: center;
+   top: 130px;
+}
+
+.ChBox {
+   font-weight: 300;
+   font-size: 8px;
+   line-height: 10px;
+   color: #FFFFFF;
+   text-align: center;
+}
+
+.enter-data {
+   position: absolute;
+   width: 200px;
+   height: 42px;
+   display: block;
+   text-align: center;
+   font-weight: 400;
+   font-size: 14px;
+   line-height: 17px;
+   padding: 13px;
+   background-color: #D58C51;
+   cursor: pointer;
+   border: none;
+   box-sizing: border-box;
+   bottom: 0;
+   left: calc(50% - 100px);
+}
+
+.enter-data:active {
+   border: 2px solid #641b03;
+   background-color: #b44c28;
+}

@@ -1,0 +1,75 @@
+.dish {
+    display: flex;
+    align-items: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.dish-img {
+    margin-top: 25px;    
+    margin-left: 72px;
+    width: 500px;
+    height: 500px;
+}
+
+.dish-text {
+    margin-left: 200px;
+    padding-top: 63px;    
+}
+
+.dish-text_title {
+    width: 414px;
+    height: 74px;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 36.5px;
+    color: #D58C51;
+    margin-bottom: 21px;
+}
+
+.dish-text_description {
+    width: 528px;
+    height: 213px;
+    margin-bottom: 34px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #FFFFFF;
+    
+}
+
+.dish-price {
+    display: flex;
+    align-items: center
+}
+
+.dish-price_value {
+    display: flex;
+    align-items: flex-end;
+    margin-right: 68px; 
+}
+
+.dish-cost {
+    font-weight: 500;
+    font-size: 23px;
+    line-height: 28px;
+    margin-right: 7px;
+}
+
+.dish-weight {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+}
+
+.dish-btn{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #131313;
+    background: #D58C51;
+    padding: 12px 62px;
+}
+
+.dish-btn:hover {
+    border: 1px solid #fff;
+}

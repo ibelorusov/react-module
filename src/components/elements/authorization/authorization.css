@@ -1,0 +1,45 @@
+.author {
+   display: flex;
+   align-items: center;
+   justify-self: center;
+   height: 100vh;
+   background: url('../../../../public/images/RegTitle.png') no-repeat;
+   background-size: cover;
+   box-sizing: border-box;
+}
+
+.entrance {
+   width: 460px;
+   height: 340px;
+   display: flex;
+   flex-direction: column;
+   padding: 9px 20px 34px 20px;
+   background-color: #FFFFFF;
+   margin: auto;
+   box-sizing: border-box;
+}
+
+.entrance-registration {
+   align-self: end;
+   font-weight: 300;
+   font-size: 11px;
+   line-height: 13px;
+}
+
+.entrance_link {
+   width: 118px;
+   color: #D58C51;
+   text-align: center;
+   text-decoration: underline;
+   cursor: pointer;
+}
+
+.entrance__title {
+   font-weight: 700;
+   font-size: 31px;
+   line-height: 38px;
+   text-transform: uppercase;
+   text-align: center;
+   color: #161516;
+   margin-top: 14px;
+}

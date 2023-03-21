@@ -1,0 +1,19 @@
+.btn-exit {
+  width: 200px;
+  height: 42px;
+  padding: 5px;
+  background-color: transparent;
+  border: 1px solid #D58C51;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #D58C51;
+  box-sizing: border-box;
+}
+
+.btn-exit:hover {
+  background-color: #D58C51;
+  border: 1px solid #FFFFFF;
+  color: #000000;
+}
+

@@ -1,0 +1,27 @@
+* {
+    font-family: 'Montserrat';
+}
+
+.product {   
+    height: 100vh;
+    background: url(../../../../public/images/background.png) no-repeat;
+    background-size: 100%;
+}
+
+.product-container {
+    width: 1284px;
+    margin: 0 auto;
+    color: #FFFFFF;
+}
+
+.product-header {
+    padding-top: 58px;
+    display: flex;
+    justify-content: space-between;    
+}
+
+.block-product {
+    display: flex;
+    align-items: center;
+}
+

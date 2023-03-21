@@ -1,0 +1,49 @@
+.basketCard {
+  display: flex;
+  align-items: center;
+  margin-bottom: 31px;
+  margin-left: 220px;
+}
+
+.basketCard__preview {
+  width: 122px;
+  height: 122px;
+  margin-right: 98px;
+}
+
+.cont {
+  display: flex;
+}
+
+.basketCard__title {
+  width: 264px;
+  margin-right: 262px;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 21px;
+}
+
+.price1 {
+  display: flex;
+  align-items: center
+}
+
+.price {
+  margin-right: 15px;
+  color: #D58C51;
+}
+
+.basket-btn {
+  border-radius: 50%;
+  outline: none;
+  border: 1px solid #D58C51;
+  background-color: transparent;
+  color: #D58C51;
+  width: 30px;
+  height: 30px;
+}
+
+.basket-btn:hover {
+  background-color: #D58C51;
+  color: #ffff;
+}

@@ -1,0 +1,83 @@
+.basket-page {
+  margin-top: -50px;
+}
+
+.basket {
+  width: 1300px;
+  margin: 0 auto;
+  color: #FFFFFF;
+}
+
+.basket-header {
+  display: flex;
+  align-items: baseline;
+}
+
+.title {
+  height: 40px;
+  margin-left: 63px;
+  font-weight: 700;
+  font-size: 31px;
+  line-height: 38px;
+  text-transform: uppercase;  
+  padding-top: 38px;
+  margin-bottom: 38px;
+  text-align: center;
+}
+
+.content {
+  height: calc(100vh - 230px);
+  overflow-x: auto;
+}
+
+.footer {
+  border-top: 1px solid #D58C51;
+}
+
+.footer-block {
+  width: 856px;
+  margin: 0 auto;
+  color: #FFFFFF;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  padding-bottom: 27px;
+}
+
+.footer-left {
+  display: flex;
+  align-items: center;
+}
+
+.footer-btn {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #131313;
+  background: #D58C51;
+  padding: 13px 40px;
+}
+
+.footer_title {
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 26px;
+  text-transform: uppercase;
+}
+
+.footer_sum {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  color: #D58C51;
+  margin-left: 16px;
+}
+
+.basket-empty {
+font-size: 40px;
+text-align: center;
+}
+
+.btnexit {
+  margin-left: 320px;
+}
