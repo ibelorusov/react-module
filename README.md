@@ -7,7 +7,7 @@
 * React Router 
 * Redux(библиотека react-redux)
 * библиотеки Font Awesome, React icons 
-* главная страница(Home) выполнена по макету Figma:https://www.figma.com/file/8ZTqyXtHQvkGiJwWYs42Fi/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC?node-id=0-1&t=Rm5iiOXnErn6dhdZ-0
+* главная страница выполнена по макету Figma:https://www.figma.com/file/8ZTqyXtHQvkGiJwWYs42Fi/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC?node-id=0-1&t=Rm5iiOXnErn6dhdZ-0
 
 ### Страницы сайта: 
 * главная,
